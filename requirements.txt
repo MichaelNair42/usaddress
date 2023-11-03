@@ -1,5 +1,5 @@
 nose
 parserator>=0.3
-requests
+requests==2.29.0
 coverage
 flake8
